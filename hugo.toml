@@ -1,6 +1,6 @@
 baseURL = 'https://zentenoo.github.io/hugo_prueba'
 languageCode = 'en-us'
-title = 'Pehtheme'
+title = 'Prueba'
 theme = 'pehtheme-hugo'
 
 paginate = '6' # <- Set the desired number of posts per page 
