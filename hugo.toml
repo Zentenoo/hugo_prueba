@@ -1,4 +1,4 @@
-baseURL = 'https://pehtheme-hugo.netlify.app/'
+baseURL = 'https://zentenoo.github.io/hugo_prueba'
 languageCode = 'en-us'
 title = 'Pehtheme'
 theme = 'pehtheme-hugo'
