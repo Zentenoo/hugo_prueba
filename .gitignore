@@ -1,0 +1,32 @@
+# Directorio de salida generado por Hugo
+public/
+
+# Archivos de recursos procesados por Hugo Pipes
+resources/
+
+# Archivos de configuración específicos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de registro
+*.log
+
+# Archivos temporales o de respaldo creados por editores de texto
+*.swp
+*.swo
+*.tmp
+*.bak
+*.old
+.hugo_build.lock
+
+# Directorios de configuración de entornos de desarrollo
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Dependencias de Node.js (si utilizas npm o yarn para gestionar paquetes)
+node_modules/
+
+# Archivos de estadísticas generados por Hugo Pipes
+hugo_stats.json
